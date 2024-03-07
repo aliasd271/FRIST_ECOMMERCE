@@ -57,7 +57,17 @@ img{
     margin-bottom: 10px;
     
 }
-
+.button{
+            display: inline-block;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            background-color: #3498db;
+            color: #fff;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
 .insidecard{
 
     width: 100%;
